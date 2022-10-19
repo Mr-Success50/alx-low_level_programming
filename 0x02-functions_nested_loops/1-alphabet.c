@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print_alphabet - is responsible to print all alphabelt in a small case letters
+ * print_alphabet - To print all alphabelt in a small case letters
  */
 
 void print_alphabet(void)
 {
 char letter;
 for (letter = 'a'; letter <= 'z'; letter++)
-	
-        _putchar(letter);
+       	_putchar(letter);
+
 _putchar('\n');
 }
