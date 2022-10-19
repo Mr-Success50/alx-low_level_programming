@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * main - print _putchar
 * is a script done due to alx school
